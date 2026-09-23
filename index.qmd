@@ -1,7 +1,13 @@
 ---
-title: "jacob website"
+title: "Jacob Sloan"
+image: images/kanzi-the-bonobo-x
+about:
+    template: solana
+    image-shape: rounded
+    links:
+    - text: TypeRacer
+  href: https://data.typeracer.com/pit/profile?user=bimblamqwerty
+    target: _blank
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+*I've always wanted to have a website and now I do. Beautiful things can happen.*
