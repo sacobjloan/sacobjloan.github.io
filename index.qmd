@@ -1,12 +1,14 @@
 ---
 title: "Jacob Sloan"
 image: images/kanzi-the-bonobo-x
+toc: false
 about:
     template: solana
     image-shape: rounded
+    image-width: 17em
     links:
     - text: TypeRacer
-  href: https://data.typeracer.com/pit/profile?user=bimblamqwerty
+    href: https://data.typeracer.com/pit/profile?user=bimblamqwerty
     target: _blank
 ---
 
