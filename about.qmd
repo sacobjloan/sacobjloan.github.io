@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "What does this guy do?"
 ---
 
 This site is all about bonobos

@@ -1,6 +1,6 @@
 ---
 title: "Jacob Sloan"
-image: images/kanzi-the-bonobo-x
+image: images\kanzi.jpeg
 toc: false
 about:
     template: solana
@@ -8,8 +8,12 @@ about:
     image-width: 17em
     links:
     - text: TypeRacer
-    href: https://data.typeracer.com/pit/profile?user=bimblamqwerty
-    target: _blank
+      href: https://data.typeracer.com/pit/profile?user=bimblamqwerty
+      target: _blank
+    - text: Email
+      href: sacobjloan@gmail.com
+    - text: Github
+      https://github.com/sacobjloan
 ---
 
 *I've always wanted to have a website and now I do. Beautiful things can happen.*
